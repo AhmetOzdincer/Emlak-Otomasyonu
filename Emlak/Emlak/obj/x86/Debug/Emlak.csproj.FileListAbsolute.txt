@@ -1,0 +1,196 @@
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\bin\Debug\Emlak.exe
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\bin\Debug\Emlak.pdb
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.AnaForm.resources
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.Form1.resources
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+c:\users\günes\documents\visual studio 2010\Projects\Emlak\Emlak\obj\x86\Debug\Emlak.İlçe.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\günes\Desktop\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Adres.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.AnaForm.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Form1.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.İlçe.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Mülk_Sahibi.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Müşteri.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Emlak_Özellik.resources
+C:\Users\günes\Desktop\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Satış.resources
+C:\Users\günes\Desktop\Gorsel2Ders2_1No_VeritabaniBaglantisi\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\Gorsel2Ders2_1No_VeritabaniBaglantisi\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\sat\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\günes\Desktop\sat\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Adres.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.AnaForm.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Emlak_Özellik.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Satış.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Form1.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Mülk_Sahibi.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Müşteri.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.İlçe.resources
+C:\Users\günes\Desktop\sat\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\günes\Desktop\sat1 - Kopya\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\sat1 - Kopya\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Adres.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.AnaForm.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Satış.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Form1.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Müşteri.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Durum.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Özellik_Tür.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Özellik.resources
+C:\Users\günes\Desktop\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+C:\Users\günes\Desktop\yedekkk\yeni\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\ad\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\günes\Desktop\ad\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\günes\Desktop\ad\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelSifreDegistir.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelSifreDegistir.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\günes\Desktop\ÇALLI--SON\Emlak\Emlak\obj\x86\Debug\Emlak.Sifre.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\bin\Debug\Emlak.exe
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\bin\Debug\Emlak.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelSifreDegistir.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Sifre.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\mehmet-güneş\mehmet-güneş\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\bin\Debug\Emlak.exe
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\bin\Debug\Emlak.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelSifreDegistir.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Sifre.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\bin\Debug\Emlak.exe
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\bin\Debug\Emlak.pdb
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelSifreDegistir.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Sifre.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.CoreCompileInputs.cache
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+H:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.exe
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.pdb
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\bin\Debug\Emlak.exe
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\bin\Debug\Emlak.pdb
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csprojResolveAssemblyReference.cache
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.AnaSayfa.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.EmlakIslemleri.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak_Ozellik.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Emlak.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelGiris.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Müsteri.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Ofis.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Personel.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.PersonelSifreDegistir.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Properties.Resources.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Sifre.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.Tanımlamalar.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\1.Dönem\GÖRSEL PROGRAMLAMA 2\Projeler\Emlak\Emlak\obj\x86\Debug\Emlak.csproj.GenerateResource.Cache
